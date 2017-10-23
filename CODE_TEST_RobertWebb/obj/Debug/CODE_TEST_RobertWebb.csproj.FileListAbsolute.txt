@@ -1,0 +1,7 @@
+c:\users\rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebb\bin\Debug\CODE_TEST_RobertWebb.exe.config
+c:\users\rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebb\bin\Debug\CODE_TEST_RobertWebb.exe
+c:\users\rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebb\bin\Debug\CODE_TEST_RobertWebb.pdb
+c:\users\rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebb\obj\Debug\CODE_TEST_RobertWebb.csproj.CoreCompileInputs.cache
+c:\users\rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebb\obj\Debug\CODE_TEST_RobertWebb.exe
+c:\users\rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebb\obj\Debug\CODE_TEST_RobertWebb.pdb
+c:\Users\Rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebb\obj\Debug\CODE_TEST_RobertWebb.csprojResolveAssemblyReference.cache

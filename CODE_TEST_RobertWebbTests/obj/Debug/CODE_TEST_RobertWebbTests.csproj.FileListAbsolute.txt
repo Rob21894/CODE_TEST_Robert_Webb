@@ -1,0 +1,16 @@
+c:\Users\Rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebbTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\Rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebbTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\Rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebbTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\Rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebbTests\bin\Debug\CODE_TEST_RobertWebbTests.dll
+c:\Users\Rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebbTests\bin\Debug\CODE_TEST_RobertWebbTests.pdb
+c:\Users\Rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebbTests\bin\Debug\CODE_TEST_RobertWebb.exe
+c:\Users\Rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebbTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\Users\Rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebbTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\Users\Rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebbTests\bin\Debug\CODE_TEST_RobertWebb.pdb
+c:\Users\Rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebbTests\bin\Debug\CODE_TEST_RobertWebb.exe.config
+c:\Users\Rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebbTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\Users\Rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebbTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\Users\Rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebbTests\obj\Debug\CODE_TEST_RobertWebbTests.csprojResolveAssemblyReference.cache
+c:\Users\Rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebbTests\obj\Debug\CODE_TEST_RobertWebbTests.csproj.CoreCompileInputs.cache
+c:\Users\Rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebbTests\obj\Debug\CODE_TEST_RobertWebbTests.dll
+c:\Users\Rob\source\repos\CODE_TEST_RobertWebb\CODE_TEST_RobertWebbTests\obj\Debug\CODE_TEST_RobertWebbTests.pdb
